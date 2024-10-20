@@ -1,0 +1,4 @@
+fastapi[standard]
+pandas
+kaggle
+scikit-learn
