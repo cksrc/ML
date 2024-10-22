@@ -1,4 +1,6 @@
 fastapi[standard]
 pandas
 kaggle
+kagglehub
 scikit-learn
+uvicorn[standard]
