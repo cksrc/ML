@@ -4,9 +4,15 @@ If you’re new to these tools and frameworks but want to dive into transfer lea
 
 These concepts are important for working with language models and transfer learning.
 
-- [ ] Intro to Machine Learning by Kaggle
+- [x] Intro to Machine Learning by Kaggle
 
   A free, hands-on course to understand the basics of ML. It covers concepts like datasets, models, training, and evaluation.
+
+- [ ] Kaggle Pandas
+
+- [ ] Kaggle Intermediate Machine Learning
+
+- [ ] Kaggle Deep Learning
 
 - [ ] NLP Specialization by Coursera (DeepLearning.AI)
 
